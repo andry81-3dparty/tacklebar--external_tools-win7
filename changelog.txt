@@ -1,0 +1,15 @@
+2025.01.02:
+* new: apps/notepad++/npp.8.7.5.Installer*.exe: installers
+* new: apps/notepad++/plugins/PythonScript/PythonScript_3.0.20.0*.msi: installers
+* new: apps/winmerge/WinMerge-2.16.44*-Setup.exe: installers
+* new: deploy/python/3.x/core/dlls/core/core-python-3.12.8-*.7z: dlls
+* new: deploy/python/3.x/modules/psutil/psutil-6.1.1-*.7z: modules
+* changed: README_EN.txt: added links about commit trees, tags, hashes and virus total checks
+
+2024.01.11:
+* new: apps/notepad++/npp.8.6.1.Installer*.exe: installers
+* new: apps/notepad++/plugins/PythonScript/PythonScript_3.0.17.0*.msi: installers
+* new: apps/winmerge/WinMerge-2.16.44*-Setup.exe: installers
+* new: deploy/python/3.x/core/dlls/core/core-python-3.12.8-*.7z: dlls
+* new: deploy/python/3.x/modules/psutil/psutil-6.1.1-*.7z: modules
+* new: changelog, readme files
